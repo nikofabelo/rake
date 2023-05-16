@@ -1,0 +1,63 @@
+Image:
+	- Windows Bitmap (BMP)									*.bmp
+	- Graphics Interchange Format (GIF)						*.gif
+	- High Efficency Image File Format (HEIF)				*.heif
+	- Computer Icon (ICO)									*.ico
+	- Joint Photographic Experts Group (JPEG)				*.jpg
+	- Picture Exchange (PCX)								*.pcx
+	- Portable Network Graphics (PNG)						*.png
+	- Scalable Vector Graphics (SVG)						*.svg
+	- Truevision TGA (TGA)									*.tga
+	- Tagged Image File Format (TIFF)						*.tif
+	- WebP Image (WEBP)										*.webp
+
+Video:
+	- 3GP Video (3GP)										*.3gp
+	- Audio Video Interleave (AVI)							*.avi
+	- Flash Video (FLV)										*.flv
+	- Matroska Video (MKV)									*.mkv
+	- QuickTime Movie (MOV)									*.mov
+	- Moving Picture Experts Group (MPEG-4)					*.mp4
+	- Moving Picture Experts Group (MPEG)					*.mpg
+	- DVD-Video Object (VOB)								*.vob
+	- WebM Video (WEBM)										*.webm
+	- Windows Media Video (WMV)								*.wmv
+
+Music:
+	- Advanced Audio Coding (AAC)							*.aac
+	- Audio Interchange File Format (AIFF)					*.aif
+	- Adaptative Multi-Rate Audio (AMR)						*.amr
+	- Free Lossless Audio Codec (FLAC)						*.flac
+	- Moving Picture Experts Group (MPEG-4)					*.m4a
+	- Musical Instrument Digital Interface Audio (MIDI)		*.mid
+	- MPEG-1 Audio Layer II (MP2)							*.mp2
+	- MPEG Audio Layer III (MP3)							*.mp3
+	- Xiph.Org Ogg (OGG)									*.ogg
+	- Waveform Audio Format (WAV)							*.wav
+	- Windows Media Audio (WMA)								*.wma
+	- WavPack (WV)											*.wv
+
+Document:
+	- Microsoft Access 2007 Database (ACCDB)				*.accdb
+	- Microsoft Word 2003 Document (DOC)					*.doc
+	- Microsoft Word 2007 Document (DOCX)					*.docx
+	- Electronic Publication (EPUB)							*.epub
+	- Microsoft Access 2003 Database (MDB)					*.mdb
+	- OpenDocument Text (ODT)								*.odt
+	- Portable Document Format (PDF)						*.pdf
+	- Microsoft PowerPoint 2003 Presentation (PPT)			*.ppt
+	- Microsoft PowerPoint 2007 Presentation (PPTX)			*.pptx
+	- Rich Text Format (RTF)								*.rtf
+	- Microsoft Excel 2003 Spreadsheet (XLS)				*.xls
+	- Microsoft Excel 2007 Spreadsheet (XLSX)				*.xlsx
+
+Compressed:
+	- 7z Archive (7Z)										*.7z
+	- Android Application Package (APK)						*.apk
+	- Bzip2 Archive (BZ2)									*.bz2
+	- GNU ZIP Archive (GZ)									*.gz
+	- ISO Image (ISO)										*.iso
+	- Roshal Archive (RAR)									*.rar
+	- Tar Archive (TAR)										*.tar
+	- XZ Archive (XZ)										*.xz
+	- ZIP Archive (ZIP)										*.zip

@@ -1,0 +1,104 @@
+Select media to scan for recovery:
+
+[ ] Full disk	/dev/sda		149,05 GB	SAMSUNG HM160HI
+[ ] Partition	/dev/sda1			50 MB	HPFS/NTFS/exFAT
+[ ] Partition	/dev/sda2			40 GB	HPFS/NTFS/exFAT
+[*] Partition	/dev/sda3		   100 GB	HPFS/NTFS/exFAT
+[ ] Partition	/dev/sda4			 9 GB	Extended
+[*] Partition	/dev/sda5		   8,5 GB	Linux
+[ ] Partition	/dev/sda6		   500 MB	Linux swap / Solaris
+
+															NEXT
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Select what kind of files you want to recover:
+
+[ ] All types.		[*] Image.			[*] Video.
+[ ] Music.			[ ] Document.		[ ] Compressed.
+
+															NEXT
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Untick the file formats you don't want to recover:
+
+  Image types:
+	[*] Windows Bitmap (BMP)							*.bmp
+	[ ] Graphics Interchange Format (GIF)				*.gif
+	[ ] High Efficency Image File Format (HEIF)			*.heif
+	[ ] Computer Icon (ICO)								*.ico
+	[*] Joint Photographic Experts Group (JPEG)			*.jpg
+	[ ] Picture Exchange (PCX)							*.pcx
+	[*] Portable Network Graphics (PNG)					*.png
+	[ ] Scalable Vector Graphics (SVG)					*.svg
+	[ ] Truevision TGA (TGA)							*.tga
+	[ ] Tagged Image File Format (TIFF)					*.tif
+	[ ] WebP Image (WEBP)								*.webp
+
+  Video types:
+	[ ] 3GP Video (3GP)									*.3gp
+	[ ] Audio Video Interleave (AVI)					*.avi
+	[ ] Flash Video (FLV)								*.flv
+	[ ] Matroska Video (MKV)							*.mkv
+	[ ] QuickTime Movie (MOV)							*.mov
+	[*] Moving Picture Experts Group (MPEG-4)			*.mp4
+	[*] Moving Picture Experts Group (MPEG)				*.mpg
+	[ ] DVD-Video Object (VOB)							*.vob
+	[ ] WebM Video (WEBM)								*.webm
+	[ ] Windows Media Video (WMV)						*.wmv
+
+															NEXT
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Select directory for saving recovered files:
+
+  [_/media/nikof/Data/Dev/Rake/rake-rec_________________]  [...]
+  *NOTE: Please don't choose the same media you have
+		 choosen for scanning.
+
+															NEXT
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Scanning selected media...
+Partition		/dev/sda3		100 GB	HPFS/NTFS/exFAT
+Partition		/dev/sda5		8,5 GB	Linux
+Recovery destination		/media/nikof/Data/Dev/Rake/rake-rec
+
+File type							File name				Size in bytes
+MPEG-14 (MP4)						EB8756D134.mp4			214000345
+MPEG-14 (MP4)						49D5251239.mp4			3900012
+Portable Network Graphics (PNG)		AD45291528.png			2950
+Joint Photographic Experts Group	FE24132013.jpg			13245
+
+Reading /dev/sda3, sector  2500000/209715200,  455 files found.
+Reading /dev/sda5, sector 14500000/209715200, 1249 files found.
+Elapsed time: 00:24:38	Estimated time to completion: 02:46:29.
+
+															STOP
+-----------------------------------------------------------------------------------------------------------------------------------------------
+					Recovery completed
+
+					1249 files recovered to
+			(/media/nikof/Data/Dev/Rake/rake-rec)
+				 ___________________________
+				|							|
+				|							|
+				|							|
+				|							|
+				|							|
+				|							|
+				|							|
+				|							|
+				|							|
+				|							|
+				|							|
+				|							|
+				|___________________________|
+
+			Rake v1.1, made in Cuba with Linux-GNU.
+
+				Copyright © 2022- Yoel N. Fabelo.
+		  License GPLv3+: GNU GPL version 3 or later
+			<https://gnu.org/licenses/gpl.html>.
+
+	This is free software: you are free to change and redistribute it.
+		There is NO WARRANTY, to the extent permitted by law.
+
+		Written by Yoel N. Fabelo <human.x7e6@gmail.com>.
+
+							CLOSE
