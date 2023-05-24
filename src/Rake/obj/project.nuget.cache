@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "QsucjCjfd5q2z+FxgzFf1CGU7EDsOs3TeB7p4quEAfcRy0YabaGZTzeTmu/7jYrQYQlLi+36Llyk8ZSsUXDMMw==",
+  "success": true,
+  "projectFilePath": "/media/nikof/Data/Dev/Rake-dev/src/Rake/Rake.csproj",
+  "expectedPackageFiles": [
+    "/home/nikof/.nuget/packages/atksharp/3.24.24.34/atksharp.3.24.24.34.nupkg.sha512",
+    "/home/nikof/.nuget/packages/cairosharp/3.24.24.34/cairosharp.3.24.24.34.nupkg.sha512",
+    "/home/nikof/.nuget/packages/gdksharp/3.24.24.34/gdksharp.3.24.24.34.nupkg.sha512",
+    "/home/nikof/.nuget/packages/giosharp/3.24.24.34/giosharp.3.24.24.34.nupkg.sha512",
+    "/home/nikof/.nuget/packages/glibsharp/3.24.24.34/glibsharp.3.24.24.34.nupkg.sha512",
+    "/home/nikof/.nuget/packages/gtksharp/3.24.24.34/gtksharp.3.24.24.34.nupkg.sha512",
+    "/home/nikof/.nuget/packages/pangosharp/3.24.24.34/pangosharp.3.24.24.34.nupkg.sha512"
+  ],
+  "logs": []
+}
